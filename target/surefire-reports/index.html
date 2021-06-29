@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Automation_Testing">
+              <span class="suite-name border-failed">Automation Testing</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Automation_Testing">
+                    <span>C:\Users\saisa\eclipse-workspace\AutomationProject\src\test\java\com\qa\utility\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Automation_Testing">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Automation_Testing">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Automation_Testing">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Automation_Testing">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Automation_Testing">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Automation_Testing">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods, 1 failed,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Automation_Testing" class="hide-methods failed suite-Automation_Testing"> (hide)</a> <!-- hide-methods failed suite-Automation_Testing -->
+                      <a href="#" panel-name="suite-Automation_Testing" class="show-methods failed suite-Automation_Testing"> (show)</a> <!-- show-methods failed suite-Automation_Testing -->
+                    </span>
+                    <div class="method-list-content failed suite-Automation_Testing">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Testing" title="com.qa.testscript.YouTubeChannelSearch" hash-for-method="searchChannelName(Sun risers hyderabad)">searchChannelName(Sun risers hyderabad)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Automation_Testing -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Automation_Testing" class="hide-methods passed suite-Automation_Testing"> (hide)</a> <!-- hide-methods passed suite-Automation_Testing -->
+                      <a href="#" panel-name="suite-Automation_Testing" class="show-methods passed suite-Automation_Testing"> (show)</a> <!-- show-methods passed suite-Automation_Testing -->
+                    </span>
+                    <div class="method-list-content passed suite-Automation_Testing">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Automation_Testing" title="com.qa.testscript.YouTubeChannelSearch" hash-for-method="searchChannelName(Telusko)">searchChannelName(Telusko)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Automation_Testing -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Automation_Testing" class="panel Automation_Testing">
+          <div class="suite-Automation_Testing-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.qa.testscript.YouTubeChannelSearch</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchChannelName(Sun risers hyderabad)">
+                  </a> <!-- searchChannelName(Sun risers hyderabad) -->
+                  <span class="method-name">searchChannelName</span>
+                  <span class="parameters">(Sun risers hyderabad)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.qa.testscript.YouTubeChannelSearch.searchChannelName(YouTubeChannelSearch.java:65)
+... Removed 38 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Testing-class-failed -->
+          <div class="suite-Automation_Testing-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.qa.testscript.YouTubeChannelSearch</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchChannelName(Telusko)">
+                  </a> <!-- searchChannelName(Telusko) -->
+                  <span class="method-name">searchChannelName</span>
+                  <span class="parameters">(Telusko)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Testing-class-passed -->
+        </div> <!-- panel Automation_Testing -->
+        <div panel-name="test-xml-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\saisa\eclipse-workspace\AutomationProject\src\test\java\com\qa\utility\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Automation Testing&quot;&gt;
+  &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.qa.utility.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Functional Testing&quot;&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;https://www.youtube.com/&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.qa.testscript.YouTubeChannelSearch&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Functional Testing --&gt;
+&lt;/suite&gt; &lt;!-- Automation Testing --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Automation Testing</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Functional Testing (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Automation Testing</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Automation Testing</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Automation_Testing');
+function tableData_Automation_Testing() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'searchChannelName')
+data.setCell(0, 2, 'com.qa.testscript.YouTubeChannelSearch')
+data.setCell(0, 3, 56509);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'searchChannelName')
+data.setCell(1, 2, 'com.qa.testscript.YouTubeChannelSearch')
+data.setCell(1, 3, 5904);
+window.suiteTableData['Automation_Testing']= { tableData: data, tableDiv: 'times-div-Automation_Testing'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Automation_Testing">
+              </div> <!-- times-div-Automation_Testing -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Automation Testing</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">searchChannelName(Telusko)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Channel Name is same as SearchName</span>
+                <span class="reporter-method-output">No of subscribers for this channel is :1.4M subscribers</span>
+                <span class="reporter-method-output">PlayList of searched channel :</span>
+                <span class="reporter-method-output">1.JavaScript Tutorial for Beginners  has 31 videos.</span>
+                <span class="reporter-method-output">2.Corda Tutorial  has 6 videos.</span>
+                <span class="reporter-method-output">3.Docker Basics  has 7 videos.</span>
+                <span class="reporter-method-output">4.Node JS Tutorial for Beginners  has 9 videos.</span>
+                <span class="reporter-method-output">5.Hyperledger Fabric  has 6 videos.</span>
+                <span class="reporter-method-output">6.Go Tutorial | Golang  has 11 videos.</span>
+                <span class="reporter-method-output">7.Java Tutorial  has 7 videos.</span>
+                <span class="reporter-method-output">8.How to Make Educational Videos?  has 4 videos.</span>
+                <span class="reporter-method-output">9.Django Tutorial for Beginners  has 26 videos.</span>
+                <span class="reporter-method-output">10.Spring Boot Security  has 8 videos.</span>
+                <span class="reporter-method-output">11.Blockchain Tutorial for Beginners  has 23 videos.</span>
+                <span class="reporter-method-output">12.JavaScript Tutorial for Beginners  has 60 videos.</span>
+                <span class="reporter-method-output">13.Python Tutorial for Beginners (Full Course)  has 110 videos.</span>
+                <span class="reporter-method-output">14.Rest API Using Spring  has 8 videos.</span>
+                <span class="reporter-method-output">15.Must Watch for Programmers  has 47 videos.</span>
+                <span class="reporter-method-output">16.Spring Boot Tutorials  has 20 videos.</span>
+                <span class="reporter-method-output">17.Java Programming Tutorial  has 69 videos.</span>
+                <span class="reporter-method-output">18.Servlet and JSP Tutorial for Beginners 2018  has 35 videos.</span>
+                <span class="reporter-method-output">19.Data Structures using Java  has 17 videos.</span>
+                <span class="reporter-method-output">20.Data Structures using C  has 5 videos.</span>
+                <span class="reporter-method-output">21.Tech Expert Thoughts  has 6 videos.</span>
+                <span class="reporter-method-output">22.AWS CodeStar  has 8 videos.</span>
+                <span class="reporter-method-output">23.Modularity in Java 9  has 4 videos.</span>
+                <span class="reporter-method-output">24.Java 9 New Features  has 10 videos.</span>
+                <span class="reporter-method-output">25.JUnit and Mockito Example  has 2 videos.</span>
+                <span class="reporter-method-output">26.Git Tutorial for Beginners  has 7 videos.</span>
+                <span class="reporter-method-output">27.Rest Api | Restful Web Service  has 21 videos.</span>
+                <span class="reporter-method-output">28.Kotlin Tutorial  has 47 videos.</span>
+                <span class="reporter-method-output">29.Programming Languages  has 4 videos.</span>
+                <span class="reporter-method-output">30.Java Web Development | Spring MVC | AWS  has 8 videos.</span>
+                <span class="reporter-method-output">31.Live Project using Spring MVC on AWS  has 10 videos.</span>
+                <span class="reporter-method-output">32.RestFul Web Service in Java  has 26 videos.</span>
+                <span class="reporter-method-output">33.MCA CET 2017 Computer Concepts  has 10 videos.</span>
+                <span class="reporter-method-output">34.Hibernate Tutorial for Beginners  has 28 videos.</span>
+                <span class="reporter-method-output">35.JSTL Tutorial  has 5 videos.</span>
+                <span class="reporter-method-output">36.Annotations in Java  has 3 videos.</span>
+                <span class="reporter-method-output">37.enum in Java  has 3 videos.</span>
+                <span class="reporter-method-output">38.Scala Tutorial for Java Developers  has 13 videos.</span>
+                <span class="reporter-method-output">39.Spring Core Annotation  has 2 videos.</span>
+                <span class="reporter-method-output">40.Spring MVC Annotation  has 2 videos.</span>
+                <span class="reporter-method-output">41.Q&A sessions  has 3 videos.</span>
+                <span class="reporter-method-output">42.XML Tutorial for Beginners  has 4 videos.</span>
+                <span class="reporter-method-output">43.Maven Tutorial  has 2 videos.</span>
+                <span class="reporter-method-output">44.Logic Patterns in Java  has 8 videos.</span>
+                <span class="reporter-method-output">45.Design Patterns in Java  has 11 videos.</span>
+                <span class="reporter-method-output">46.Android Tutorial for Beginners  has 33 videos.</span>
+                <span class="reporter-method-output">47.Socket Programming in Java  has 4 videos.</span>
+                <span class="reporter-method-output">48.What Why Where  has 4 videos.</span>
+                <span class="reporter-method-output">49.Java 8 new features  has 10 videos.</span>
+                <span class="reporter-method-output">50.Spring MVC Tutorial  has 11 videos.</span>
+                <span class="reporter-method-output">51.OOPs Object Oriented Programming System  has 12 videos.</span>
+                <span class="reporter-method-output">52.Patterns in C Programming  has 3 videos.</span>
+                <span class="reporter-method-output">53.C Programming Tutorial for Beginners  has 41 videos.</span>
+                <span class="reporter-method-output">54.Openshift Java Web App Deployment Tutorial  has 5 videos.</span>
+                <span class="reporter-method-output">55.Self Help and Motivational Videos  has 8 videos.</span>
+                <span class="reporter-method-output">56.Learn Java New Videos  has 11 videos.</span>
+                <span class="reporter-method-output">57.Spring Framework with Maven Tutorial  has 12 videos.</span>
+                <span class="reporter-method-output">58.Sql Tutorial for Beginners  has 19 videos.</span>
+                <span class="reporter-method-output">59.Computer Hardware Tutorials  has 3 videos.</span>
+                <span class="reporter-method-output">60.String Handling in Java  has 10 videos.</span>
+                <span class="reporter-method-output">61.What is Array in Java | tutorial for Beginners  has 10 videos.</span>
+                <span class="reporter-method-output">62.Java Interview Coding Questions  has 10 videos.</span>
+                <span class="reporter-method-output">63.Java Servlet and JSP Tutorial  has 28 videos.</span>
+                <span class="reporter-method-output">64.Mysql Tutorial  has 6 videos.</span>
+                <span class="reporter-method-output">65.How to use Eclipse for Java Beginners  has 6 videos.</span>
+                <span class="reporter-method-output">66.BCA Java Practicals  has 5 videos.</span>
+                <span class="reporter-method-output">67.Java Reflection API  has 4 videos.</span>
+                <span class="reporter-method-output">68.Singleton Design Pattern  has 5 videos.</span>
+                <span class="reporter-method-output">69.Cool Tricks in Java  has 12 videos.</span>
+                <span class="reporter-method-output">70.JSP UseBean  has 3 videos.</span>
+                <span class="reporter-method-output">71.Struts 2  has 5 videos.</span>
+                <span class="reporter-method-output">72.EJB Message Driven Bean Tutorial JMS  has 6 videos.</span>
+                <span class="reporter-method-output">73.EJB Enterprise Java Bean  has 13 videos.</span>
+                <span class="reporter-method-output">74.Java 8 Stream API Features Lambda Expression  has 23 videos.</span>
+                <span class="reporter-method-output">75.Computer Concepts  has 5 videos.</span>
+                <span class="reporter-method-output">76.Java Swing GUI  has 17 videos.</span>
+                <span class="reporter-method-output">77.Internationalization I18N in Java  has 4 videos.</span>
+                <span class="reporter-method-output">78.Learn How to Use Netbeans IDE  has 4 videos.</span>
+                <span class="reporter-method-output">79.Java Database Connectivity (JDBC) by Navin Reddy  has 7 videos.</span>
+                <span class="reporter-method-output">80.Hadoop and Big Data  has 5 videos.</span>
+                <span class="reporter-method-output">81.Exception Handling in Java  has 8 videos.</span>
+                <span class="reporter-method-output">82.C Programming  has 11 videos.</span>
+                <span class="reporter-method-output">83.Applet GUI in java  has 4 videos.</span>
+                <span class="reporter-method-output">84.Inner Class in Java  has 4 videos.</span>
+                <span class="reporter-method-output">85.Only for Java Beginners (Sample Codes)  has 6 videos.</span>
+                <span class="reporter-method-output">86.Collection and Generics in Java  has 13 videos.</span>
+                <span class="reporter-method-output">87.Object Cloning in Java  has 3 videos.</span>
+                <span class="reporter-method-output">88.MultiThreading in Java with Lambda Expression  has 10 videos.</span>
+                <span class="reporter-method-output">89.Adv. Java Servlet JSP EJB Stateless Stateful Message Driven Bean  has 23 videos.</span>
+                <span class="reporter-method-output">90.Graphics in C programming  has 2 videos.</span>
+                <span class="reporter-method-output">91.RMI  has 5 videos.</span>
+                <span class="reporter-method-output">92.Network Security Pracs  has 6 videos.</span>
+                <span class="reporter-method-output">93.Network Security  has 8 videos.</span>
+                <span class="reporter-method-output">94.Packet Tracer Networking  has 11 videos.</span>
+                <span class="reporter-method-output">95.Java Tutorial For Beginners  has 186 videos.</span>
+                <span class="reporter-method-output">-----------------------------------------------</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">searchChannelName(Sun risers hyderabad)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Channel Name is not same as SearchName</span>
+                <span class="reporter-method-output">-----------------------------------------------</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Automation_Testing" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.qa.testscript.YouTubeChannelSearch</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(chrome, https://www.youtube.com/)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">searchChannelName(Telusko)</span>
+                <span class="method-start">30310 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">searchChannelName(Sun risers hyderabad)</span>
+                <span class="method-start">86859 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">92824 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

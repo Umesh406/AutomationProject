@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Channel Name is same as SearchName]]>
+    </line>
+    <line>
+      <![CDATA[No of subscribers for this channel is :1.4M subscribers]]>
+    </line>
+    <line>
+      <![CDATA[PlayList of searched channel :]]>
+    </line>
+    <line>
+      <![CDATA[1.JavaScript Tutorial for Beginners  has 31 videos.]]>
+    </line>
+    <line>
+      <![CDATA[2.Corda Tutorial  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[3.Docker Basics  has 7 videos.]]>
+    </line>
+    <line>
+      <![CDATA[4.Node JS Tutorial for Beginners  has 9 videos.]]>
+    </line>
+    <line>
+      <![CDATA[5.Hyperledger Fabric  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[6.Go Tutorial | Golang  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[7.Java Tutorial  has 7 videos.]]>
+    </line>
+    <line>
+      <![CDATA[8.How to Make Educational Videos?  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[9.Django Tutorial for Beginners  has 26 videos.]]>
+    </line>
+    <line>
+      <![CDATA[10.Spring Boot Security  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[11.Blockchain Tutorial for Beginners  has 23 videos.]]>
+    </line>
+    <line>
+      <![CDATA[12.JavaScript Tutorial for Beginners  has 60 videos.]]>
+    </line>
+    <line>
+      <![CDATA[13.Python Tutorial for Beginners (Full Course)  has 110 videos.]]>
+    </line>
+    <line>
+      <![CDATA[14.Rest API Using Spring  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[15.Must Watch for Programmers  has 47 videos.]]>
+    </line>
+    <line>
+      <![CDATA[16.Spring Boot Tutorials  has 20 videos.]]>
+    </line>
+    <line>
+      <![CDATA[17.Java Programming Tutorial  has 69 videos.]]>
+    </line>
+    <line>
+      <![CDATA[18.Servlet and JSP Tutorial for Beginners 2018  has 35 videos.]]>
+    </line>
+    <line>
+      <![CDATA[19.Data Structures using Java  has 17 videos.]]>
+    </line>
+    <line>
+      <![CDATA[20.Data Structures using C  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[21.Tech Expert Thoughts  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[22.AWS CodeStar  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[23.Modularity in Java 9  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[24.Java 9 New Features  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[25.JUnit and Mockito Example  has 2 videos.]]>
+    </line>
+    <line>
+      <![CDATA[26.Git Tutorial for Beginners  has 7 videos.]]>
+    </line>
+    <line>
+      <![CDATA[27.Rest Api | Restful Web Service  has 21 videos.]]>
+    </line>
+    <line>
+      <![CDATA[28.Kotlin Tutorial  has 47 videos.]]>
+    </line>
+    <line>
+      <![CDATA[29.Programming Languages  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[30.Java Web Development | Spring MVC | AWS  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[31.Live Project using Spring MVC on AWS  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[32.RestFul Web Service in Java  has 26 videos.]]>
+    </line>
+    <line>
+      <![CDATA[33.MCA CET 2017 Computer Concepts  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[34.Hibernate Tutorial for Beginners  has 28 videos.]]>
+    </line>
+    <line>
+      <![CDATA[35.JSTL Tutorial  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[36.Annotations in Java  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[37.enum in Java  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[38.Scala Tutorial for Java Developers  has 13 videos.]]>
+    </line>
+    <line>
+      <![CDATA[39.Spring Core Annotation  has 2 videos.]]>
+    </line>
+    <line>
+      <![CDATA[40.Spring MVC Annotation  has 2 videos.]]>
+    </line>
+    <line>
+      <![CDATA[41.Q&A sessions  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[42.XML Tutorial for Beginners  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[43.Maven Tutorial  has 2 videos.]]>
+    </line>
+    <line>
+      <![CDATA[44.Logic Patterns in Java  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[45.Design Patterns in Java  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[46.Android Tutorial for Beginners  has 33 videos.]]>
+    </line>
+    <line>
+      <![CDATA[47.Socket Programming in Java  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[48.What Why Where  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[49.Java 8 new features  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[50.Spring MVC Tutorial  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[51.OOPs Object Oriented Programming System  has 12 videos.]]>
+    </line>
+    <line>
+      <![CDATA[52.Patterns in C Programming  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[53.C Programming Tutorial for Beginners  has 41 videos.]]>
+    </line>
+    <line>
+      <![CDATA[54.Openshift Java Web App Deployment Tutorial  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[55.Self Help and Motivational Videos  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[56.Learn Java New Videos  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[57.Spring Framework with Maven Tutorial  has 12 videos.]]>
+    </line>
+    <line>
+      <![CDATA[58.Sql Tutorial for Beginners  has 19 videos.]]>
+    </line>
+    <line>
+      <![CDATA[59.Computer Hardware Tutorials  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[60.String Handling in Java  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[61.What is Array in Java | tutorial for Beginners  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[62.Java Interview Coding Questions  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[63.Java Servlet and JSP Tutorial  has 28 videos.]]>
+    </line>
+    <line>
+      <![CDATA[64.Mysql Tutorial  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[65.How to use Eclipse for Java Beginners  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[66.BCA Java Practicals  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[67.Java Reflection API  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[68.Singleton Design Pattern  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[69.Cool Tricks in Java  has 12 videos.]]>
+    </line>
+    <line>
+      <![CDATA[70.JSP UseBean  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[71.Struts 2  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[72.EJB Message Driven Bean Tutorial JMS  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[73.EJB Enterprise Java Bean  has 13 videos.]]>
+    </line>
+    <line>
+      <![CDATA[74.Java 8 Stream API Features Lambda Expression  has 23 videos.]]>
+    </line>
+    <line>
+      <![CDATA[75.Computer Concepts  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[76.Java Swing GUI  has 17 videos.]]>
+    </line>
+    <line>
+      <![CDATA[77.Internationalization I18N in Java  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[78.Learn How to Use Netbeans IDE  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[79.Java Database Connectivity (JDBC) by Navin Reddy  has 7 videos.]]>
+    </line>
+    <line>
+      <![CDATA[80.Hadoop and Big Data  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[81.Exception Handling in Java  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[82.C Programming  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[83.Applet GUI in java  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[84.Inner Class in Java  has 4 videos.]]>
+    </line>
+    <line>
+      <![CDATA[85.Only for Java Beginners (Sample Codes)  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[86.Collection and Generics in Java  has 13 videos.]]>
+    </line>
+    <line>
+      <![CDATA[87.Object Cloning in Java  has 3 videos.]]>
+    </line>
+    <line>
+      <![CDATA[88.MultiThreading in Java with Lambda Expression  has 10 videos.]]>
+    </line>
+    <line>
+      <![CDATA[89.Adv. Java Servlet JSP EJB Stateless Stateful Message Driven Bean  has 23 videos.]]>
+    </line>
+    <line>
+      <![CDATA[90.Graphics in C programming  has 2 videos.]]>
+    </line>
+    <line>
+      <![CDATA[91.RMI  has 5 videos.]]>
+    </line>
+    <line>
+      <![CDATA[92.Network Security Pracs  has 6 videos.]]>
+    </line>
+    <line>
+      <![CDATA[93.Network Security  has 8 videos.]]>
+    </line>
+    <line>
+      <![CDATA[94.Packet Tracer Networking  has 11 videos.]]>
+    </line>
+    <line>
+      <![CDATA[95.Java Tutorial For Beginners  has 186 videos.]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Channel Name is not same as SearchName]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------------------------]]>
+    </line>
+  </reporter-output>
+  <suite name="Automation Testing" duration-ms="94587" started-at="2021-06-29T09:15:58Z" finished-at="2021-06-29T09:17:33Z">
+    <groups>
+    </groups>
+    <test name="Functional Testing" duration-ms="94587" started-at="2021-06-29T09:15:58Z" finished-at="2021-06-29T09:17:33Z">
+      <class name="com.qa.testscript.YouTubeChannelSearch">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.YouTubeChannelSearch@735b478]" name="setUp" is-config="true" duration-ms="24948" started-at="2021-06-29T14:45:59Z" finished-at="2021-06-29T14:46:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.youtube.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchChannelName(java.lang.String)[pri:0, instance:com.qa.testscript.YouTubeChannelSearch@735b478]" name="searchChannelName" duration-ms="56509" started-at="2021-06-29T14:46:29Z" data-provider="getData" finished-at="2021-06-29T14:47:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Telusko]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Channel Name is same as SearchName]]>
+            </line>
+            <line>
+              <![CDATA[No of subscribers for this channel is :1.4M subscribers]]>
+            </line>
+            <line>
+              <![CDATA[PlayList of searched channel :]]>
+            </line>
+            <line>
+              <![CDATA[1.JavaScript Tutorial for Beginners  has 31 videos.]]>
+            </line>
+            <line>
+              <![CDATA[2.Corda Tutorial  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[3.Docker Basics  has 7 videos.]]>
+            </line>
+            <line>
+              <![CDATA[4.Node JS Tutorial for Beginners  has 9 videos.]]>
+            </line>
+            <line>
+              <![CDATA[5.Hyperledger Fabric  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[6.Go Tutorial | Golang  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[7.Java Tutorial  has 7 videos.]]>
+            </line>
+            <line>
+              <![CDATA[8.How to Make Educational Videos?  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[9.Django Tutorial for Beginners  has 26 videos.]]>
+            </line>
+            <line>
+              <![CDATA[10.Spring Boot Security  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[11.Blockchain Tutorial for Beginners  has 23 videos.]]>
+            </line>
+            <line>
+              <![CDATA[12.JavaScript Tutorial for Beginners  has 60 videos.]]>
+            </line>
+            <line>
+              <![CDATA[13.Python Tutorial for Beginners (Full Course)  has 110 videos.]]>
+            </line>
+            <line>
+              <![CDATA[14.Rest API Using Spring  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[15.Must Watch for Programmers  has 47 videos.]]>
+            </line>
+            <line>
+              <![CDATA[16.Spring Boot Tutorials  has 20 videos.]]>
+            </line>
+            <line>
+              <![CDATA[17.Java Programming Tutorial  has 69 videos.]]>
+            </line>
+            <line>
+              <![CDATA[18.Servlet and JSP Tutorial for Beginners 2018  has 35 videos.]]>
+            </line>
+            <line>
+              <![CDATA[19.Data Structures using Java  has 17 videos.]]>
+            </line>
+            <line>
+              <![CDATA[20.Data Structures using C  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[21.Tech Expert Thoughts  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[22.AWS CodeStar  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[23.Modularity in Java 9  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[24.Java 9 New Features  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[25.JUnit and Mockito Example  has 2 videos.]]>
+            </line>
+            <line>
+              <![CDATA[26.Git Tutorial for Beginners  has 7 videos.]]>
+            </line>
+            <line>
+              <![CDATA[27.Rest Api | Restful Web Service  has 21 videos.]]>
+            </line>
+            <line>
+              <![CDATA[28.Kotlin Tutorial  has 47 videos.]]>
+            </line>
+            <line>
+              <![CDATA[29.Programming Languages  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[30.Java Web Development | Spring MVC | AWS  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[31.Live Project using Spring MVC on AWS  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[32.RestFul Web Service in Java  has 26 videos.]]>
+            </line>
+            <line>
+              <![CDATA[33.MCA CET 2017 Computer Concepts  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[34.Hibernate Tutorial for Beginners  has 28 videos.]]>
+            </line>
+            <line>
+              <![CDATA[35.JSTL Tutorial  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[36.Annotations in Java  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[37.enum in Java  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[38.Scala Tutorial for Java Developers  has 13 videos.]]>
+            </line>
+            <line>
+              <![CDATA[39.Spring Core Annotation  has 2 videos.]]>
+            </line>
+            <line>
+              <![CDATA[40.Spring MVC Annotation  has 2 videos.]]>
+            </line>
+            <line>
+              <![CDATA[41.Q&A sessions  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[42.XML Tutorial for Beginners  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[43.Maven Tutorial  has 2 videos.]]>
+            </line>
+            <line>
+              <![CDATA[44.Logic Patterns in Java  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[45.Design Patterns in Java  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[46.Android Tutorial for Beginners  has 33 videos.]]>
+            </line>
+            <line>
+              <![CDATA[47.Socket Programming in Java  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[48.What Why Where  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[49.Java 8 new features  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[50.Spring MVC Tutorial  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[51.OOPs Object Oriented Programming System  has 12 videos.]]>
+            </line>
+            <line>
+              <![CDATA[52.Patterns in C Programming  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[53.C Programming Tutorial for Beginners  has 41 videos.]]>
+            </line>
+            <line>
+              <![CDATA[54.Openshift Java Web App Deployment Tutorial  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[55.Self Help and Motivational Videos  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[56.Learn Java New Videos  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[57.Spring Framework with Maven Tutorial  has 12 videos.]]>
+            </line>
+            <line>
+              <![CDATA[58.Sql Tutorial for Beginners  has 19 videos.]]>
+            </line>
+            <line>
+              <![CDATA[59.Computer Hardware Tutorials  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[60.String Handling in Java  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[61.What is Array in Java | tutorial for Beginners  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[62.Java Interview Coding Questions  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[63.Java Servlet and JSP Tutorial  has 28 videos.]]>
+            </line>
+            <line>
+              <![CDATA[64.Mysql Tutorial  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[65.How to use Eclipse for Java Beginners  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[66.BCA Java Practicals  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[67.Java Reflection API  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[68.Singleton Design Pattern  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[69.Cool Tricks in Java  has 12 videos.]]>
+            </line>
+            <line>
+              <![CDATA[70.JSP UseBean  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[71.Struts 2  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[72.EJB Message Driven Bean Tutorial JMS  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[73.EJB Enterprise Java Bean  has 13 videos.]]>
+            </line>
+            <line>
+              <![CDATA[74.Java 8 Stream API Features Lambda Expression  has 23 videos.]]>
+            </line>
+            <line>
+              <![CDATA[75.Computer Concepts  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[76.Java Swing GUI  has 17 videos.]]>
+            </line>
+            <line>
+              <![CDATA[77.Internationalization I18N in Java  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[78.Learn How to Use Netbeans IDE  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[79.Java Database Connectivity (JDBC) by Navin Reddy  has 7 videos.]]>
+            </line>
+            <line>
+              <![CDATA[80.Hadoop and Big Data  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[81.Exception Handling in Java  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[82.C Programming  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[83.Applet GUI in java  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[84.Inner Class in Java  has 4 videos.]]>
+            </line>
+            <line>
+              <![CDATA[85.Only for Java Beginners (Sample Codes)  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[86.Collection and Generics in Java  has 13 videos.]]>
+            </line>
+            <line>
+              <![CDATA[87.Object Cloning in Java  has 3 videos.]]>
+            </line>
+            <line>
+              <![CDATA[88.MultiThreading in Java with Lambda Expression  has 10 videos.]]>
+            </line>
+            <line>
+              <![CDATA[89.Adv. Java Servlet JSP EJB Stateless Stateful Message Driven Bean  has 23 videos.]]>
+            </line>
+            <line>
+              <![CDATA[90.Graphics in C programming  has 2 videos.]]>
+            </line>
+            <line>
+              <![CDATA[91.RMI  has 5 videos.]]>
+            </line>
+            <line>
+              <![CDATA[92.Network Security Pracs  has 6 videos.]]>
+            </line>
+            <line>
+              <![CDATA[93.Network Security  has 8 videos.]]>
+            </line>
+            <line>
+              <![CDATA[94.Packet Tracer Networking  has 11 videos.]]>
+            </line>
+            <line>
+              <![CDATA[95.Java Tutorial For Beginners  has 186 videos.]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------------------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchChannelName -->
+        <test-method status="FAIL" signature="searchChannelName(java.lang.String)[pri:0, instance:com.qa.testscript.YouTubeChannelSearch@735b478]" name="searchChannelName" duration-ms="5904" started-at="2021-06-29T14:47:26Z" data-provider="getData" finished-at="2021-06-29T14:47:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sun risers hyderabad]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.qa.testscript.YouTubeChannelSearch.searchChannelName(YouTubeChannelSearch.java:65)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Channel Name is not same as SearchName]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------------------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchChannelName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testscript.YouTubeChannelSearch@735b478]" name="tearDown" is-config="true" duration-ms="1122" started-at="2021-06-29T14:47:32Z" finished-at="2021-06-29T14:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscript.YouTubeChannelSearch -->
+    </test> <!-- Functional Testing -->
+  </suite> <!-- Automation Testing -->
+</testng-results>

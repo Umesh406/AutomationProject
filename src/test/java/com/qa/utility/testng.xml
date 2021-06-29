@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Testing">
+<parameter name="Browser" value="chrome" />
+<listeners>
+<listener class-name="com.qa.utility.Reporting"></listener>
+</listeners>
+  <test  thread-count="5" name="Functional Testing">
+  <parameter name="url" value="https://www.youtube.com/"/>
+    <classes>
+      <class name="com.qa.testscript.YouTubeChannelSearch"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
